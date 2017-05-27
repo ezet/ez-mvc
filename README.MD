@@ -1,0 +1,1 @@
+Simple MFC framework developed in 2011 to learn MVC basics

@@ -1,0 +1,5 @@
+# This is placed in the VirtualHost config of ezmvc, but could also be placed here.
+#RewriteEngine on
+#RewriteCond %{REQUEST_FILENAME} !-f
+#RewriteCond %{REQUEST_FILENAME} !-d
+#RewriteRule ^(.*) index.php/?$1 [QSA,L]
